@@ -163,7 +163,9 @@ h6,
         color: var(--primary);
     }
 }
-
+.logo{
+    border-radius: 25px;
+}
 
 /*** Carousel ***/
 .carousel-caption {
